@@ -1,2 +1,2 @@
 # HackerRank
-My solutions to HackerRank problems to polish my coding skills
+My solutions to HackerRank problems to polish my coding skills using Ruby
