@@ -9,6 +9,7 @@ My solutions for HackerRank's [Alghoritms](https://www.hackerrank.com/domains/al
 Problem description | Link to solution
 ------------ | -------------
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Solution](Warmup/simple-array-sum/solution.rb)
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Solution](Warmup/compare-triplets/solution.rb)
 
 ### IMPLEMENTATION
 Problem description | Link to solution
